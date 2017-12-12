@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+    background-color: beige;
+}
+button {
+    width: 80px;
+    color: black;
+}
+ID {
+    color: darkred;
+}
+.fontLarge{
+    font-size: 16px;
+}
+p.center {
+    text-align: center;
+    color: orangered;
+}
+h1, h2, p {
+    text-align: right;
+    text-weight: bold;
+}
